@@ -38,6 +38,6 @@ export default defineNuxtConfig({
       autoSubfolderIndex: false,
     },
   },
-
+  ssr: false,
   compatibilityDate: '2024-07-25',
 })
